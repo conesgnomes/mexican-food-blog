@@ -1,0 +1,21 @@
+body {
+  font-family: monospace;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.about_me {
+  color: #647289;
+  border: 5px solid red;
+}
+
+.blog_post {
+  color: #3f2863;
+}
